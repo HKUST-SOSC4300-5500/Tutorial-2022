@@ -41,8 +41,4 @@
 - Network: small world simulation 
 
 
-## Week 12 (6 May)
-- Network: homophily
-
-
 
