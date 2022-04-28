@@ -38,7 +38,7 @@
 - Network: basics; visualization 
 
 ## Week 11 (29 Apr)
-- Network: small world simulation 
+- Network: further analysis & simulation
 
 
 
