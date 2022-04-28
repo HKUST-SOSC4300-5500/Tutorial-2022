@@ -38,7 +38,7 @@
 - Network: basics; visualization 
 
 ## Week 11 (29 Apr)
-- Network: further analysis & simulation
+- Network: Twitter interactions
 
 
 
